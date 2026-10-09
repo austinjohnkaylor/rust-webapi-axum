@@ -4,3 +4,4 @@
 #![allow(clippy::cognitive_complexity)]
 
 pub mod domain;
+pub mod application;
